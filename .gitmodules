@@ -1,0 +1,6 @@
+[submodule "sim-rig-flight"]
+	path = sim-rig-flight
+	url = git@github.com:tmitb/sim-rig-flight.git
+[submodule "sim-rig-racing"]
+	path = sim-rig-racing
+	url = git@github.com:tmitb/sim-rig-racing.git
